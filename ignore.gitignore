@@ -1,0 +1,15 @@
+# Ignore unnecessary system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore virtual environments
+venv/
+env/
+
+
+# Ignore logs, models, and checkpoints (optional)
+results/checkpoints/
+*.h5
+*.pth
+logs/
