@@ -118,16 +118,15 @@ The integration of SE blocks led to a significant improvement in model performan
 | CNN with SE Blocks | 77%      | 0.7036 |
 
 
-### **Accuracy Comparison**
-Baseline vs. Enhanced model training accuracy over epochs:
+### **Model Comparison: Baseline vs Enhanced**
 
-![Accuracy Plot](results/plots/baseline/accuracy.png) ![Second Image](results/plots/enhanced/accuracy.png)
+Below are the **Accuracy** and **Loss** comparisons for both the **Baseline** and **Enhanced** models:
 
-### **Loss Comparison**
-Baseline vs. Enhanced model training loss over epochs:
+#### Baseline Model
+<img src="results/plots/baseline/accuracy.png" width="300"/>  <img src="results/plots/baseline/loss.png" width="300"/>
 
-
-![Loss Plot](results/plots/baseline/loss.png) ![Second Image](results/plots/enhanced/loss.png)
+#### Enhanced Model
+<img src="results/plots/enhanced/accuracy.png" width="300"/>  <img src="results/plots/enhanced/loss.png" width="300"/>
 
 ## License
 
