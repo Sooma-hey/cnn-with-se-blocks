@@ -121,13 +121,13 @@ The integration of SE blocks led to a significant improvement in model performan
 ### **Accuracy Comparison**
 Baseline vs. Enhanced model training accuracy over epochs:
 
-![Accuracy Plot](results/accuracy_plot.png)
+![Accuracy Plot](results/plots/baseline/accuracy.png) ![Second Image](results/plots/enhanced/accuracy.png)
 
 ### **Loss Comparison**
 Baseline vs. Enhanced model training loss over epochs:
 
-![Loss Plot](results/loss_plot.png)
 
+![Loss Plot](results/plots/baseline/loss.png) ![Second Image](results/plots/enhanced/loss.png)
 
 ## License
 
