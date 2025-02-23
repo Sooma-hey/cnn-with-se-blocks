@@ -117,6 +117,7 @@ The integration of SE blocks led to a significant improvement in model performan
 | Baseline CNN      | 71%      | 0.8690 |
 | CNN with SE Blocks | 77%      | 0.7036 |
 
+Model size barely changed from 677.45 KB to 680.21 KB
 
 ### **Model Comparison: Baseline vs Enhanced**
 
